@@ -2,7 +2,7 @@
 it's me.🌱
 
 ### GitHub概览
-![Github Stats](https://github-readme-stats.vercel.app/api?username=tiestring&theme=synthwave&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=tiestring&theme=tokyonight&count_private=true)
 
 ### Languages
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiestring&theme=light&layout=compact)
