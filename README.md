@@ -1,5 +1,7 @@
 ### Hi there 👋
+### GitHub概览
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=tiestring&show_icons=true&theme=dark&count_private=true)
+### Language
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiestring&theme=dark&layout=compact)
 <!--
 **TieString/TieString** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
