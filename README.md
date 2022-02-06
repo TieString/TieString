@@ -1,4 +1,6 @@
 ### Hi there 👋
+it's me.🌱
+
 ### GitHub概览
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=tiestring&show_icons=true&theme=dark&count_private=true)
 ### Language
@@ -17,4 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-it's me.🌱
+
