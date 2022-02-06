@@ -2,10 +2,7 @@
 it's me.🌱
 
 ### GitHub概览
-![Github Stats](https://github-readme-stats.vercel.app/api?username=tiestring&theme=merko&count_private=true)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=tiestring&theme=gruvbox&count_private=true)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=tiestring&theme=synthwave&count_private=true)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=tiestring&theme=cobalt&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=tiestring&theme=dracula&count_private=true)
 
 ### Language
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiestring&theme=dark&layout=compact)
