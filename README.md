@@ -2,7 +2,7 @@
 it's me.🌱
 
 ### GitHub概览
-![Github Stats](https://github-readme-stats.vercel.app/api?username=tiestring&theme=dracula&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=tiestring&theme=dracula&count_private=true&hide_border=ture)
 
 ### Languages
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tiestring&theme=dracula&layout=compact)
