@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Github Stats](https://github-readme-stats.vercel.app/api?tiestring=coderfix-lab&show_icons=true&theme=dark&count_private=true)
 <!--
 **TieString/TieString** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱
+it's me.🌱
